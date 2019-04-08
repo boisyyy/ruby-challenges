@@ -21,6 +21,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 * 01_ruby_intro
 =======
 * 01_ruby_intro
@@ -32,10 +33,16 @@
 * 03_largest_number
 >>>>>>> da4dd559766a8de215b1be280af0bb4c15966aa5
 =======
+=======
+>>>>>>> 0c5142cf57ae7e09850c719182717c4efdd33e24
 * 01_ruby_intro
 * 02_input_output
 * 03_largest_number
 * 04_sum_numbers
 * 05_in_array
+<<<<<<< HEAD
+* 06_definition
+>>>>>>> 0c5142cf57ae7e09850c719182717c4efdd33e24
+=======
 * 06_definition
 >>>>>>> 0c5142cf57ae7e09850c719182717c4efdd33e24
