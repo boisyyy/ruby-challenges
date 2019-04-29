@@ -3,16 +3,23 @@
 
 # Program is run and outputs:
 # "What is your name?"
-
+puts "What is your name?"
 # User inputs: "Tom"
+name = []
+input = gets.chomp
 
 # Program outputs:
 # "Hi Tom! How old are you?"
-
+puts "Hi #{input} How old are you?"
+age = []
+input2 = gets.chomp.to_i
 # User inputs: 40
 
 # Program outputs:
 # "Wow! You are 40 years old. Congratulations!"
+puts "Wow! You are #{input2} years old. Congratulations!"
+
+
 
 # Beast mode challenge:
 # Ater the above, the program calculates how many years until
