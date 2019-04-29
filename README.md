@@ -20,6 +20,7 @@
 ## List of challenge branches
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 * 01_ruby_intro
 =======
 * 01_ruby_intro
@@ -30,3 +31,18 @@
 * 02_input_output
 * 03_largest_number
 >>>>>>> da4dd559766a8de215b1be280af0bb4c15966aa5
+=======
+* 01_ruby_intro
+* 02_input_output
+* 03_largest_number
+* 04_sum_numbers
+* 05_in_array
+* 06_definition
+* 07_included_once
+* 08_count_letters
+* 09_vowels
+* 10_unique
+* 11_fizzbuzz
+* 12_count_words
+* 13_fibonacci
+>>>>>>> eefe86a28a479a1d7de848168244e227a28595bc
